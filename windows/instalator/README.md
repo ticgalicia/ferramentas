@@ -10,7 +10,7 @@ Esta ferramenta forma parte da sección de utilidades de **TIC Galicia**, deseñ
 ## 🚀 Funcionalidades Principais
 * **Instalación:** Automatización do despregue de software esencial.
 * **Actualización:** Mantemento de parches e versións ao día.
-* **Limpeza:** Optimización de espazo e eliminación de ficheiros residuais.
+* **Limpeza:** Optimización do sistema.
 
 ## 📥 Descarga Directa
 Podes obter a última versión lista para usar aquí:
