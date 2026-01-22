@@ -1,4 +1,4 @@
-# [Nome da Ferramenta] 🛠️
+# Instalator 🛠️
 
 > **Parte da suite de ferramentas de [TIC Galicia](https://www.ticgalicia.com)**
 
