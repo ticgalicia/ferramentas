@@ -26,7 +26,7 @@ Podes obter a última versión lista para usar aquí:
 3. Segue as instrucións na consola/interface.
 
 ## 🏢 Sobre TIC Galicia
-Somos especialistas en servizos tecnolóxicos. Visita a nosa web para máis solucións:
+TIC Galicia é un grupo de profesionais de varios sectores que traballan para a dinamización tecnolóxica de Galicia:
 🌐 [www.ticgalicia.com](https://www.ticgalicia.com)
 
 ---
