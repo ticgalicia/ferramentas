@@ -15,7 +15,7 @@ Esta ferramenta forma parte da sección de utilidades de **TIC Galicia**, deseñ
 ## 📥 Descarga Directa
 Podes obter a última versión lista para usar aquí:
 
-👉 **[Descargar instalator.exe](https://github.com/ticgalicia/ferramentas/blob/ef15f2a237ba9cc6e00bc104fe16bf7028d46b5f/windows/instalator/instalator.exe)?raw=true)**
+👉 **[Descargar instalator.exe](https://github.com/ticgalicia/ferramentas/raw/main/windows/instalator/instalator.exe)**
 
 
 ---
