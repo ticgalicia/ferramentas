@@ -12,7 +12,7 @@ Benvido ao índice centralizado de utilidades de **TIC Galicia**. Aquí atopará
 | Nome da Ferramenta | Versión | Descarga / Acceso |
 | :--- | :---: | :--- |
 |   |   |   |
-| **Instalator** | `v1.26.02.03` | [Descargar .exe](https://github.com/ticgalicia/ferramentas/raw/main/windows/instalator/instalator.exe) |
+| **Instalator** | `v1.26.02.04` | [Descargar .exe](https://github.com/ticgalicia/ferramentas/raw/main/windows/instalator/instalator.exe) |
 | **En desenvolvemento** | `v0.x` | ⏳ Proximamente |
 | **En desenvolvemento** | `v0.x` | ⏳ Proximamente |
 | **En desenvolvemento** | `v0.x` | ⏳ Proximamente |
