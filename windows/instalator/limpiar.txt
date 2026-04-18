@@ -39,3 +39,22 @@ REG;AdobeGCInvoker
 REG;Adobe Acrobat Synchronizer
 REG;Microsoft Edge Update
 REG;CCleaner Smart Cleaning
+REG;Skype
+REG;EpicGamesLauncher
+REG;EA Desktop
+REG;GalaxyClient
+REG;BitTorrent
+REG;uTorrent
+REG;iTunesHelper
+REG;QuickTimeTask
+REG;HP Message Service
+REG;HPTouchpointLayout
+REG;DellSupportAssist
+REG;LenovoVantage
+REG;UpdateCenter
+REG;Java Update Checker
+REG;Brother Help Center
+REG;Epson Connect
+REG;CanonSolutionMenu
+REG;CiscoMeetingDaemon
+REG;Webex
