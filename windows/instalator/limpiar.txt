@@ -36,5 +36,6 @@ REG;Dropbox
 REG;Discord
 REG;Steam
 REG;AdobeGCInvoker
+REG;Adobe Acrobat Synchronizer
 REG;Microsoft Edge Update
 REG;CCleaner Smart Cleaning
