@@ -1,0 +1,13 @@
+Adobe Acrobat Update Task
+AdobeGCInvoker-1.0
+CCleanerUpdate
+DropboxUpdate
+FacebookUpdate
+GoogleUpdate
+MicrosoftEdgeUpdate
+OneDrive Reporting Task
+OneDrive Startup Task
+Spotify Startup Task
+Steam App Update
+TeamsMachineInstaller
+BraveUpdate
