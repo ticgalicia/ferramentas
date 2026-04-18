@@ -11,6 +11,9 @@ Esta ferramenta forma parte da sección de utilidades de **TIC Galicia**, deseñ
 * **Instalación:** Automatización do despregue de software esencial.
 * **Actualización:** Mantemento de parches e versións ao día.
 * **Limpeza:** Optimización do sistema.
+  - Borrado de temporais e papelera
+  - Limpeza de "tareas programadas" que comen rendemento o sistema. (Ver ficheiro limpiar.txt)
+    O ficheiro limpiar.txt desta páxina actualízase dende a version 1.26.4.18 para incorporar novas funcións. 
 
 ## 📥 Descarga Directa
 Podes obter a última versión lista para usar aquí:
