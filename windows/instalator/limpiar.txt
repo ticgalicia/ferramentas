@@ -12,3 +12,20 @@ Spotify Startup Task
 Steam App Update
 TeamsMachineInstaller
 BraveUpdate
+MicrosoftEdgeUpdateTaskMachineCore
+MicrosoftEdgeUpdateTaskMachineUA
+GoogleUpdateTaskMachineCore
+GoogleUpdateTaskMachineUA
+BraveUpdateTaskMachineCore
+BraveUpdateTaskMachineUA
+XblGameSaveTask
+PowerEfficiencyDiagnostics
+RecommendedTroubleshootingScanner
+SpeechModelDownloadTask
+SpaceManagerTask
+FODCleanupTask
+SilentCleanup
+ProactiveScan
+BrowserLaunchTask
+EdgeUpdate
+UpdateAssistant
