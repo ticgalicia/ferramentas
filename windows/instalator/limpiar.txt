@@ -1,31 +1,40 @@
-Adobe Acrobat Update Task
-AdobeGCInvoker-1.0
-CCleanerUpdate
-DropboxUpdate
-FacebookUpdate
-GoogleUpdate
-MicrosoftEdgeUpdate
-OneDrive Reporting Task
-OneDrive Startup Task
-OneDrive Per-Machine Standalone Update Task
-Spotify Startup Task
-Steam App Update
-TeamsMachineInstaller
-BraveUpdate
-MicrosoftEdgeUpdateTaskMachineCore
-MicrosoftEdgeUpdateTaskMachineUA
-GoogleUpdateTaskMachineCore
-GoogleUpdateTaskMachineUA
-BraveUpdateTaskMachineCore
-BraveUpdateTaskMachineUA
-XblGameSaveTask
-PowerEfficiencyDiagnostics
-RecommendedTroubleshootingScanner
-SpeechModelDownloadTask
-SpaceManagerTask
-FODCleanupTask
-SilentCleanup
-ProactiveScan
-BrowserLaunchTask
-EdgeUpdate
-UpdateAssistant
+TSK;Adobe Acrobat Update Task
+TSK;AdobeGCInvoker-1.0
+TSK;CCleanerUpdate
+TSK;DropboxUpdate
+TSK;FacebookUpdate
+TSK;GoogleUpdate
+TSK;MicrosoftEdgeUpdate
+TSK;OneDrive Reporting Task
+TSK;OneDrive Startup Task
+TSK;OneDrive Per-Machine Standalone Update Task
+TSK;Spotify Startup Task
+TSK;Steam App Update
+TSK;TeamsMachineInstaller
+TSK;BraveUpdate
+TSK;MicrosoftEdgeUpdateTaskMachineCore
+TSK;MicrosoftEdgeUpdateTaskMachineUA
+TSK;GoogleUpdateTaskMachineCore
+TSK;GoogleUpdateTaskMachineUA
+TSK;BraveUpdateTaskMachineCore
+TSK;BraveUpdateTaskMachineUA
+TSK;XblGameSaveTask
+TSK;PowerEfficiencyDiagnostics
+TSK;RecommendedTroubleshootingScanner
+TSK;SpeechModelDownloadTask
+TSK;SpaceManagerTask
+TSK;FODCleanupTask
+TSK;SilentCleanup
+TSK;ProactiveScan
+TSK;BrowserLaunchTask
+TSK;EdgeUpdate
+TSK;UpdateAssistant
+REG;OneDrive
+REG;Spotify
+REG;Teams
+REG;Dropbox
+REG;Discord
+REG;Steam
+REG;AdobeGCInvoker
+REG;Microsoft Edge Update
+REG;CCleaner Smart Cleaning
