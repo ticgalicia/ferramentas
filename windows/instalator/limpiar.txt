@@ -7,6 +7,7 @@ GoogleUpdate
 MicrosoftEdgeUpdate
 OneDrive Reporting Task
 OneDrive Startup Task
+OneDrive Per-Machine Standalone Update Task
 Spotify Startup Task
 Steam App Update
 TeamsMachineInstaller
