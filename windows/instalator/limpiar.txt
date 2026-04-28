@@ -25,6 +25,8 @@ TSK;PowerEfficiencyDiagnostics
 TSK;RecommendedTroubleshootingScanner
 TSK;SpeechModelDownloadTask
 TSK;SpaceManagerTask
+TSK;LenovoWelcome
+TSK;Firefox
 TSK;FODCleanupTask
 TSK;SilentCleanup
 TSK;ProactiveScan
