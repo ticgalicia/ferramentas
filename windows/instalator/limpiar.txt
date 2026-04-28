@@ -1,4 +1,5 @@
 TSK;Adobe Acrobat Update Task
+TSK;Adobe Acrobat Update
 TSK;AdobeGCInvoker-1.0
 TSK;CCleanerUpdate
 TSK;DropboxUpdate
@@ -12,6 +13,7 @@ TSK;Spotify Startup Task
 TSK;Steam App Update
 TSK;TeamsMachineInstaller
 TSK;BraveUpdate
+TSK;PostponeDeviceSetupToast
 TSK;MicrosoftEdgeUpdateTaskMachineCore
 TSK;MicrosoftEdgeUpdateTaskMachineUA
 TSK;GoogleUpdateTaskMachineCore
@@ -26,9 +28,16 @@ TSK;SpaceManagerTask
 TSK;FODCleanupTask
 TSK;SilentCleanup
 TSK;ProactiveScan
+TSK;User_Feed_Synchronization
 TSK;BrowserLaunchTask
+TSK;Opera scheduled
+TSK;OneDrive Standalone
 TSK;EdgeUpdate
+TSK;klcp_update
 TSK;UpdateAssistant
+TSK;AvastBrowserProtect
+TSK;CCleaner
+TSK;LenovoUtility
 REG;OneDrive
 REG;Spotify
 REG;Teams
@@ -38,6 +47,9 @@ REG;Steam
 REG;AdobeGCInvoker
 REG;Adobe Acrobat Synchronizer
 REG;Microsoft Edge Update
+REG;GoogleChromeAutoLaunch
+REG;MicrosoftEdgeAutoLaunch
+REG;Opera Stable
 REG;CCleaner Smart Cleaning
 REG;Skype
 REG;EpicGamesLauncher
