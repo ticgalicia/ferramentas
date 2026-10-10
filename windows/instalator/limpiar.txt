@@ -40,6 +40,60 @@ TSK;UpdateAssistant
 TSK;AvastBrowserProtect
 TSK;CCleaner
 TSK;LenovoUtility
+TSK;CyberLink Smart Task
+TSK;WildTangent Games
+TSK;ASUS Update Task
+TSK;HP Diagnostics Tool
+TSK;McAfee Remediation Task
+TSK;Norton Security Task
+TSK;ByteFence Service Task
+TSK;Driver Booster Update
+TSK;Advanced SystemCare Update
+TSK;WPS Office Update Task
+TSK;Avast Emergency Update
+TSK;Glary Utilities Update Task
+TSK;ExpressVPN AutoUpdate
+TSK;NordVPN AutoUpdate
+TSK;WeatherBug Task
+TSK;DriverEasy Scheduled Task
+TSK;RiotClientUpdate
+TSK;Battle.net Update
+TSK;UbisoftConnectUpdate
+TSK;MSNNewsTask
+TSK;WindowsFeedsTask
+TSK;NewsAndInterestsTask
+TSK;AnyDesk AutoUpdate
+TSK;TeamViewer Update
+TSK;Zoom AutoUpdate
+TSK;AVG Updater
+TSK;Bitdefender Agent Task
+TSK;Kaspersky AutoUpdate
+TSK;Malwarebytes Update Task
+TSK;IObit Uninstaller SkipUAC
+TSK;Smart Defrag Update Task
+TSK;Revo Uninstaller Update
+TSK;Auslogics BoostSpeed
+TSK;System Mechanic Scheduled Task
+TSK;EASEUS Todo Backup Task
+TSK;AOMEI Backupper Scheduler
+TSK;Macrium Reflect Update
+TSK;Corel Update Task
+TSK;Wondershare Studio Task
+TSK;Movavi Update Task
+TSK;NCH Software Suite Task
+TSK;ACDSee Update Scheduler
+TSK;NVIDIA GeForce Experience Task
+TSK;AMD Software Update Task
+TSK;Razer Synapse Central
+TSK;Logitech G HUB Update Task
+TSK;Corsair iCUE Update Task
+TSK;SteelSeries GG Update
+TSK;HP Smart Task
+TSK;Dell SupportAssist Updater
+TSK;Lenovo Vantage Service Task
+TSK;ASUS Armoury Crate Task
+TSK;Acer Care Center Task
+TSK;MSI Center Task
 REG;OneDrive
 REG;Spotify
 REG;Teams
@@ -72,3 +126,60 @@ REG;Epson Connect
 REG;CanonSolutionMenu
 REG;CiscoMeetingDaemon
 REG;Webex
+REG;CyberLink PhotoDirector
+REG;CyberLink PowerDVD
+REG;McAfee WebAdvisor
+REG;Norton Automatic Update
+REG;ByteFence
+REG;Driver Booster
+REG;Advanced SystemCare
+REG;WPS Office
+REG;IObit LiveUpdate
+REG;WonderShare Helper Compact
+REG;PC Accelerator Pro
+REG;OneStart
+REG;WeatherBug
+REG;Coupon Printer
+REG;Search Protect
+REG;MyCleanPC
+REG;DriverEasy
+REG;RiotClientServices
+REG;Battle.net
+REG;UbisoftConnect
+REG;MSN Weather
+REG;WindowsNewsAndInterests
+REG;MicrosoftStart
+REG;Opera GX Helper
+REG;Newsbar
+REG;AnyDesk
+REG;TeamViewer
+REG;Zoom
+REG;AVG Tray
+REG;Bitdefender Agent
+REG;Kaspersky
+REG;Malwarebytes Tray
+REG;IObit Uninstaller
+REG;Smart Defrag
+REG;Revo Uninstaller
+REG;Auslogics BoostSpeed
+REG;System Mechanic
+REG;EASEUS Todo Backup
+REG;AOMEI Backupper
+REG;Macrium Reflect Tray
+REG;Corel Update Helper
+REG;Wondershare Studio
+REG;Movavi Monitor
+REG;NCH Suite
+REG;ACDSee Commander
+REG;NVIDIA GeForce Experience
+REG;AMD Noise Suppression
+REG;Razer Synapse
+REG;Logitech G HUB
+REG;Corsair iCUE
+REG;SteelSeries GG
+REG;HP Smart
+REG;Dell SupportAssist Agent
+REG;Lenovo Vantage Agent
+REG;ASUS Armoury Crate
+REG;Acer Care Center
+REG;MSI Center
