@@ -36,7 +36,7 @@
 
 Podes obter a última versión lista para usar aquí:
 
-👉 **[Descargar ticdiag.exe](https://github.com/ticgalicia/ferramentas/raw/main/windows/instalator/ticdiag.exe)**
+👉 **[Descargar ticdiag.exe](https://github.com/ticgalicia/ferramentas/raw/main/windows/ticdiag/ticdiag.exe)**
 
 ---
 
