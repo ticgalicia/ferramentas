@@ -13,7 +13,7 @@ Benvido ao índice centralizado de utilidades de **TIC Galicia**. Aquí atopará
 | :--- | :---: | :--- |
 |   |   |   |
 | **Instalator** | `v1.26.08.18` | [Descargar .exe](https://github.com/ticgalicia/ferramentas/raw/main/windows/instalator/instalator.exe) |
-| **En desenvolvemento** | `v0.x` | ⏳ Proximamente |
+| **TicDiag** | `v1.26.10.16` |  [Descargar .exe](https://github.com/ticgalicia/ferramentas/raw/main/windows/ticdiag/ticdiag.exe)  |
 | **En desenvolvemento** | `v0.x` | ⏳ Proximamente |
 | **En desenvolvemento** | `v0.x` | ⏳ Proximamente |
 | **En desenvolvemento** | `v0.x` | ⏳ Proximamente |
